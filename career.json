@@ -1,6 +1,43 @@
 {
   "jobs": [
     {
+  "id": "tableaudeveloper11438",
+  "department": "Engineering",
+  "title": "Tableau Developer",
+  "location": "Remote",
+  "experience": "8 Years",
+  "required_skills": [
+    "Tableau Desktop",
+    "Tableau Server",
+    "SQL",
+    "Data Analysis",
+    "Data Warehousing",
+    "Large Datasets",
+    "Data Visualization Best Practices",
+    "ETL Tools",
+    "Data Integration",
+    "Calculated Fields",
+    "Parameters & Filters",
+    "Data Modeling",
+    "Performance Optimization",
+    "Troubleshooting",
+    "Power BI (preferred)",
+    "Python or R (preferred)",
+    "Agile (preferred)"
+  ],
+  "responsibilities": [
+    "Design, develop, and maintain Tableau dashboards and reports based on business requirements",
+    "Work with large datasets and build interactive visualizations for business insights",
+    "Connect Tableau with multiple data sources such as SQL databases, data warehouses, and cloud platforms",
+    "Optimize dashboards for performance, scalability, and usability",
+    "Develop calculated fields, parameters, filters, and Tableau data models",
+    "Collaborate with business stakeholders to gather requirements and deliver analytical solutions",
+    "Ensure data accuracy, consistency, and governance in reporting solutions",
+    "Troubleshoot and resolve dashboard performance and data issues"
+  ],
+  "apply_link": "https://docs.google.com/forms/d/1ZFzr_sxQwJ54N69Jrzl6Refh2OhOsBRbtcGrNrRmkn8/"
+},
+    {
       "id": "job_5",
       "department": "Engineering",
       "title": "Senior AI Engineer",
