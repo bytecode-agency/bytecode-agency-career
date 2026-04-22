@@ -1,1 +1,112 @@
+{
+  jobs: [
+  {
+    "id": "job_1",
+    "department": "Engineering",
+    "title": "Business Analyst (Salesforce / Workday)",
+    "location": "Remote",
+    "experience": "5-6 Years",
+    "required_skills": [
+      "Platform Expertise",
+      "Agile Methodologies",
+      "Communication",
+      "Problem-Solving",
+      "Documentation",
+      "Visualization",
+      "Stakeholder Management"
+    ],
+    "responsibilities": [
+      "Facilitate workshops and interviews with stakeholders to identify and document business needs, pain points, and process improvements.",
+      "Design and maintain detailed \"As-Is\" and \"To-Be\" business process diagrams.",
+      "Collaborate with frontend engineers to define clean, versioned REST & gRPC contracts.",
+      "Translate business requirements into functional specifications, user stories, and acceptance criteria for the technical team.",
+      "Work closely with developers and configuration specialists to ensure the solution meets the defined business needs.",
+      "Coordinate User Acceptance Testing (UAT), including the creation of test scripts and management of defect resolution.",
+      "Develop training materials and provide support to end-users during system deployments and updates.",
+      "Analyze system data to provide insights and recommendations for ongoing optimization"
+    ],
+    "apply_link": "https://docs.google.com/forms/d/e/1FAIpQLSfgtGgNrEe6kwUJI15yNeoqWIErHcDsVIH4vI0qCzIV2C-QFQ/viewform"
+  },
+  {
+    "id": "job_2",
+    "department": "Engineering",
+    "title": "Environment Manager (Salesforce / Workday)",
+    "location": "Remote",
+    "experience": "8–9 Years",
+    "required_skills": [
+      "Platform Mastery",
+      "Deployment Tools",
+      "API & Integration Knowledge",
+      "Scripting",
+      "Change Management",
+      "Strategic Planning",
+      "Conflict Resolution"
+    ],
+    "responsibilities": [
+      "Define and maintain a robust environment strategy, including sandbox management, refreshes, and tenant mapping for Salesforce and Workday.",
+      "Oversee the end-to-end deployment pipeline, ensuring that all code and configuration changes move through the environment stack without conflict.",
+      "Implement and manage automated deployment tools (e.g., Copado, Gearset, Flosum, or Workday Object Transporter) to improve speed and reliability.",
+      "Coordinate data masking and seeding strategies to ensure developers and testers have high-quality, compliant data in non-production environments.",
+      "Act as the primary gatekeeper for production, collaborating with Scrum Masters, BAs, and Developers to resolve environment contention issues.",
+      "Ensure all environments comply with organizational security standards, managing user access and monitoring system health across all instances.",
+      "Track environment uptime and performance metrics, proactively identifying bottlenecks in the release lifecycle."
+    ],
+    "apply_link": "https://docs.google.com/forms/d/e/1FAIpQLSfgtGgNrEe6kwUJI15yNeoqWIErHcDsVIH4vI0qCzIV2C-QFQ/viewform"
+  },
+  {
+    "id": "job_3",
+    "department": "Engineering",
+    "title": "Scrum Master (Salesforce / Workday)",
+    "location": "Remote",
+    "experience": "5–6 Years",
+    "required_skills": [
+      "Agile Frameworks",
+      "Tool Proficiency",
+      "Metrics-Driven",
+      "SaaS Savvy",
+      "Technical Literacy",
+      "Servant Leadership",
+      "Communication",
+      "Conflict Resolution"
+    ],
+    "responsibilities": [
+      "Lead all Scrum ceremonies, including Daily Stand-ups, Sprint Planning, Sprint Reviews, and Retrospectives for Salesforce/Workday development teams.",
+      "Proactively identify and eliminate \"roadblocks\" (technical, resource-based, or process-related) that hinder the team’s progress.",
+      "Partner with Product Managers and Business Analysts to ensure the backlog is healthy, prioritized, and ready for upcoming sprints.",
+      "Utilize tools like Jira or Azure DevOps to track velocity, burn-down charts, and sprint health, providing transparent reporting to stakeholders.",
+      "Guide the team on Agile best practices and self-organization, specifically tailored to the unique constraints of SaaS platforms (e.g., deployment cycles and sandbox limitations).",
+      "Protect the team from outside interruptions and \"scope creep\" during active sprints.",
+      "Collaborate with Environment Managers to align sprint goals with release windows and deployment schedules."
+    ],
+    "apply_link": "https://docs.google.com/forms/d/e/1FAIpQLSfgtGgNrEe6kwUJI15yNeoqWIErHcDsVIH4vI0qCzIV2C-QFQ/viewform"
+  },
+  {
+    "id": "job_4",
+    "department": "Engineering",
+    "title": "MS SQL Data Analyst",
+    "location": "Remote",
+    "experience": "6+ Years",
+    "employment_type": "6 Months Contract",
+    "shift_timings": "2:00 PM – 11:00 PM IST",
+    "required_skills": [
+      "MS SQL Server Mastery",
+      "ETL Knowledge",
+      "Data Visualization",
+      "Healthcare Domain Knowledge",
+      "Problem Solving",
+      "Remote Collaboration"
+    ],
+    "responsibilities": [
+      "Write and optimize complex T-SQL queries, stored procedures, views, and functions to extract data from large healthcare databases.",
+      "Conduct deep-dive data analysis to identify inconsistencies, missing values, or anomalies in patient, billing, or clinical records.",
+      "Collaborate with stakeholders to design and automate recurring reports, ensuring accuracy in healthcare KPIs (e.g., patient outcomes, readmission rates).",
+      "Perform source-to-target mapping for data migration or integration projects between different healthcare systems (e.g., EMR/EHR platforms).",
+      "Monitor and optimize query performance to handle high-volume datasets efficiently.",
+      "Ensure all data handling and analysis strictly adhere to healthcare data privacy regulations (HIPAA) and client-specific security protocols.",
+      "Present data findings to non-technical healthcare administrators and clinical staff in a clear, concise manner."
+    ],
+    "apply_link": "https://docs.google.com/forms/d/e/1FAIpQLSc2HECIRyhm3IygBLKPFFymX5Mjq_d_VjcrY83pfFoCR34J0A/viewform?fbzx=2554083337301597043"
+  }
+]
 
+}
