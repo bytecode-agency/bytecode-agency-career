@@ -77,7 +77,44 @@
       "apply_link": "https://docs.google.com/forms/d/1ZFzr_sxQwJ54N69Jrzl6Refh2OhOsBRbtcGrNrRmkn8/"
     },
     {
-      "id": "job_1",
+  "id": "seniordataengineer11518",
+  "department": "Engineering",
+  "title": "Senior Data Engineer - Microsoft Fabric",
+  "location": "Remote",
+  "experience": "10+ Years",
+  "required_skills": [
+    "Microsoft Fabric",
+    "Azure Data Factory",
+    "Azure Synapse",
+    "ADLS",
+    "SQL",
+    "Data Modeling",
+    "PySpark",
+    "Spark",
+    "Distributed Data Processing",
+    "Data Warehousing",
+    "ETL/ELT Pipelines",
+    "Data Governance",
+    "Data Security",
+    "CI/CD",
+    "Real-time Data Streaming (plus)",
+    "Power BI Integration (plus)"
+  ],
+  "responsibilities": [
+    "Design and develop end-to-end data solutions using Microsoft Fabric components (Data Factory, Synapse Data Engineering, Data Warehouse, Real-Time Analytics)",
+    "Build scalable and efficient ETL/ELT pipelines for structured and unstructured data",
+    "Develop and maintain data models, lakehouses, and warehouses",
+    "Integrate data from multiple sources including APIs, databases, and cloud platforms",
+    "Optimize data processing performance and ensure data quality and reliability",
+    "Implement data governance, security, and compliance best practices",
+    "Collaborate with data scientists, analysts, and business stakeholders to deliver data-driven solutions",
+    "Monitor, troubleshoot, and enhance existing data workflows",
+    "Automate workflows and deployments using CI/CD pipelines"
+  ],
+  "apply_link": "https://docs.google.com/forms/d/1ZFzr_sxQwJ54N69Jrzl6Refh2OhOsBRbtcGrNrRmkn8/"
+},
+    {
+      "id": "businessanalyst5446",
       "department": "Engineering",
       "title": "Business Analyst (Salesforce / Workday)",
       "location": "Remote",
@@ -104,7 +141,7 @@
       "apply_link": "https://docs.google.com/forms/d/e/1FAIpQLSfgtGgNrEe6kwUJI15yNeoqWIErHcDsVIH4vI0qCzIV2C-QFQ/viewform"
     },
     {
-      "id": "job_2",
+      "id": "environmentmanager3448",
       "department": "Engineering",
       "title": "Environment Manager (Salesforce / Workday)",
       "location": "Remote",
@@ -130,7 +167,7 @@
       "apply_link": "https://docs.google.com/forms/d/e/1FAIpQLSfgtGgNrEe6kwUJI15yNeoqWIErHcDsVIH4vI0qCzIV2C-QFQ/viewform"
     },
     {
-      "id": "job_3",
+      "id": "scrummaster5336",
       "department": "Engineering",
       "title": "Scrum Master (Salesforce / Workday)",
       "location": "Remote",
@@ -157,7 +194,7 @@
       "apply_link": "https://docs.google.com/forms/d/e/1FAIpQLSfgtGgNrEe6kwUJI15yNeoqWIErHcDsVIH4vI0qCzIV2C-QFQ/viewform"
     },
     {
-      "id": "job_4",
+      "id": "mssqldataanalyst2446",
       "department": "Engineering",
       "title": "MS SQL Data Analyst",
       "location": "Remote",
