@@ -1,6 +1,47 @@
 {
   "jobs": [
     {
+  "id": "hipaacomplianceexpert11488",
+  "department": "Compliance",
+  "title": "HIPAA Compliance Expert - Airflow + Spark",
+  "location": "Remote",
+  "experience": "5+ Years",
+  "required_skills": [
+    "HIPAA Privacy Rule",
+    "HIPAA Security Rule",
+    "HIPAA Breach Notification Rule",
+    "HIPAA Risk Assessments",
+    "Apache Airflow (DAGs, connections, secrets)",
+    "Apache Spark (executor memory, shuffle storage)",
+    "AWS HIPAA-eligible services",
+    "BAA Scoping",
+    "CloudTrail Audit Log Review",
+    "CHPS (preferred)",
+    "CIPP/US (preferred)",
+    "CISSP (preferred)",
+    "CISA (preferred)",
+    "NIST 800-66r2 (nice to have)",
+    "HITRUST CSF (nice to have)",
+    "SOC 2 Type II (nice to have)",
+    "Kubernetes/EKS Hardening (nice to have)",
+    "Terraform/IaC (nice to have)",
+    "Delta Lake/Iceberg (nice to have)",
+    "Penetration Testing (nice to have)"
+  ],
+  "responsibilities": [
+    "Conduct comprehensive HIPAA security and compliance review of data pipeline architecture",
+    "Assess Airflow DAG configurations, connections, secrets management, and access controls",
+    "Review Spark job configurations including executor memory, shuffle storage, and security settings",
+    "Evaluate cloud-native security controls on AWS HIPAA-eligible services",
+    "Review BAA scoping and CloudTrail/audit logs",
+    "Identify gaps in Privacy, Security, and Breach Notification rules compliance",
+    "Provide remediation recommendations and compliance roadmap",
+    "Review operational practices for ongoing HIPAA adherence",
+    "Document findings and deliver final assessment report"
+  ],
+  "apply_link": "https://docs.google.com/forms/d/1ZFzr_sxQwJ54N69Jrzl6Refh2OhOsBRbtcGrNrRmkn8/"
+},
+    {
   "id": "seniordataengineer11475",
   "department": "Engineering",
   "title": "Senior Data Engineer - Snowflake + AWS",
