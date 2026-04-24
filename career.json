@@ -1,6 +1,42 @@
 {
   "jobs": [
     {
+  "id": "seniordataengineer11475",
+  "department": "Engineering",
+  "title": "Senior Data Engineer - Snowflake + AWS",
+  "location": "Remote",
+  "experience": "5-8 Years",
+  "required_skills": [
+    "Snowflake (3+ years)",
+    "Python",
+    "SQL",
+    "AWS (EC2, S3, RDS, EMR)",
+    "Airflow or Luigi",
+    "Linux Bash",
+    "Hadoop Ecosystem",
+    "Monitoring & Alerting Tools",
+    "ETL/Data Pipelines",
+    "Data Migration",
+    "Fivetran or Matillion (desired)",
+    "dbt (desired)",
+    "CI/CD (desired)",
+    "Spark/Hive (desired)",
+    "Data Governance (desired)"
+  ],
+  "responsibilities": [
+    "Lead all phases of Snowflake migration from planning to optimization",
+    "Design and implement scalable ETL/data pipelines using Python and Luigi",
+    "Configure, deploy, and maintain AWS infrastructure (EC2, S3, RDS, EMR)",
+    "Oversee legacy framework maintenance and propose cloud migration plans",
+    "Develop monitoring solutions for system health and pipeline accuracy",
+    "Set up alerts and dashboards for proactive issue detection",
+    "Document workflows, troubleshooting procedures, and code",
+    "Provide mentoring and training to team members",
+    "Coordinate infrastructure changes with stakeholders"
+  ],
+  "apply_link": "https://docs.google.com/forms/d/1ZFzr_sxQwJ54N69Jrzl6Refh2OhOsBRbtcGrNrRmkn8/"
+},
+    {
   "id": "tableaudeveloper11438",
   "department": "Engineering",
   "title": "Tableau Developer",
