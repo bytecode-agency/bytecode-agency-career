@@ -1,6 +1,42 @@
 {
   "jobs": [
     {
+  "id": "uiuxdesigner11058",
+  "department": "Design",
+  "title": "UI/UX Designer - Product Design",
+  "location": "Gurgaon / Noida / Coimbatore / Chennai",
+  "experience": "8 Years",
+  "required_skills": [
+    "UX/UI Design",
+    "Product Design",
+    "Design Research",
+    "User-Centered Design",
+    "Design Systems",
+    "Figma",
+    "Miro",
+    "Usability Testing Tools",
+    "Human-Centered Design",
+    "Interaction Design",
+    "WCAG Accessibility",
+    "Agile Methodologies",
+    "Communication",
+    "Collaboration",
+    "Presentation Skills"
+  ],
+  "responsibilities": [
+    "Lead design initiatives and projects from concept to delivery",
+    "Create user-centered design solutions based on research and data",
+    "Contribute to and work extensively with design systems",
+    "Use Figma, Miro, and usability testing tools to deliver high-quality designs",
+    "Apply human-centered design principles and interaction design best practices",
+    "Ensure designs meet WCAG accessibility guidelines",
+    "Collaborate with cross-functional teams in an Agile environment",
+    "Articulate design decisions and complex concepts clearly to stakeholders",
+    "Deliver high-quality designs in a fast-paced environment"
+  ],
+  "apply_link": "https://docs.google.com/forms/d/1ZFzr_sxQwJ54N69Jrzl6Refh2OhOsBRbtcGrNrRmkn8/"
+},
+    {
   "id": "uiuxdesigner11528",
   "department": "Design",
   "title": "UI/UX Designer - Product Design",
